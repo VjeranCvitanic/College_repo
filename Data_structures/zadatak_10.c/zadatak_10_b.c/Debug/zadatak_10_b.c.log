@@ -1,0 +1,5 @@
+﻿  Functions.c
+C:\Users\vjera\OneDrive\Radna površina\Strukture podataka\zadatak_10.c\zadatak_10_b.c\Functions.c(21,8): warning C4013: 'strcpy' undefined; assuming extern returning int
+C:\Users\vjera\OneDrive\Radna površina\Strukture podataka\zadatak_10.c\zadatak_10_b.c\Functions.c(60,10): warning C4013: 'strncat' undefined; assuming extern returning int
+C:\Users\vjera\OneDrive\Radna površina\Strukture podataka\zadatak_10.c\zadatak_10_b.c\Functions.c(77,13): warning C4013: 'strcmp' undefined; assuming extern returning int
+  zadatak_10_b.c.vcxproj -> C:\Users\vjera\OneDrive\Radna površina\Strukture podataka\zadatak_10.c\zadatak_10_b.c\Debug\zadatak_10_b.c.exe

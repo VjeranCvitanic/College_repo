@@ -1,0 +1,5 @@
+﻿  Functions.c
+C:\Users\vjera\OneDrive\Radna površina\Strukture_podataka\Ispit\Functions.c(31,8): warning C4013: 'strcpy' undefined; assuming extern returning int
+C:\Users\vjera\OneDrive\Radna površina\Strukture_podataka\Ispit\Functions.c(53,12): warning C4013: 'strcmp' undefined; assuming extern returning int
+C:\Users\vjera\OneDrive\Radna površina\Strukture_podataka\Ispit\Functions.c(116,15): warning C4013: 'strlen' undefined; assuming extern returning int
+  Ispit.vcxproj -> C:\Users\vjera\OneDrive\Radna površina\Strukture_podataka\Ispit\Debug\Ispit.exe

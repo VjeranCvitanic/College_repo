@@ -1,0 +1,13 @@
+v 4
+file . "kcpsm6.vhd" "30c4e653903ae5c5850cc591272c3697afd4ecf9" "20240612173640.860":
+  entity kcpsm6 at 77( 3926) + 0 on 881;
+  architecture low_level_definition of kcpsm6 at 111( 5409) + 0 on 882;
+file . "movavg4.vhd" "52baa92b2b2254b5694e8d7e88a8458c26f463f5" "20240612173640.842":
+  entity movavg4 at 1( 0) + 0 on 879;
+  architecture arch of movavg4 at 27( 627) + 0 on 880;
+file . "program.vhd" "5a22b790fcbb0c3c834de7b76008176274a8f39b" "20240612173640.839":
+  entity program at 54( 3074) + 0 on 877;
+  architecture low_level_definition of program at 72( 3634) + 0 on 878;
+file . "system_testbench.vhd" "1a28068009791891dba190f8995dccc2bd47830c" "20240612173640.575":
+  entity system_testbench at 1( 0) + 0 on 875;
+  architecture simulate of system_testbench at 9( 159) + 0 on 876;

@@ -1,0 +1,58 @@
+                  ; Assembly program for calculating moving average of 4. Also calculates max, min and total avg of all values.
+                  ; Data (50 values) keeps coming from address 0x10, calculated moving avg values are sent to 0x20.
+                  ; max, min and total avg values are sent to 0x30, 0x40 and 0x50 respectively
+                  ; A vhd logic is used to compute moving avg, data is sent to it at addresses 0x00, 0x01 and 0x02
+                  ; constants definition (addresses)
+                  CONSTANT MOVAVG_INPUT, 00
+                  CONSTANT MOVAVG_OUTPUT, 01
+                  CONSTANT MOVAVG_RESET, 02
+                  CONSTANT UNP_BVJ, 10
+                  CONSTANT RPP_BVJ, 20
+                  CONSTANT AVG, 30
+                  CONSTANT MIN, 40
+                  CONSTANT MAX, 50
+                  LOAD s0, 00                ; data
+                  LOAD s1, 00                ; counter
+                  LOAD s2, 00                ; mov_avg
+                  LOAD s3, 00                ; max
+                  LOAD s4, FF                ; min
+                  ; sum (for avg) (using LSB and MSB because sum of 50 values possibly overflows)
+                  LOAD s5, 00                ; LSB
+                  LOAD s6, 00                ; MSB
+                  LOAD s7, 31                ; help register, holds value 49 (0x31)
+                  LOAD s8, 00                ; avg
+                  ; main loop for getting data from a peripheral unit, processing data and sending data to another peripheral unit
+            loop: 
+                  INPUT s0, UNP_BVJ          ; read value
+                  ADD s1, 01                 ; inc counter
+                  OUTPUT s0, MOVAVG_INPUT    ; send to vhd program
+                  INPUT s2, MOVAVG_OUTPUT    ; read mov_avg
+                  COMPARE s1, 04             ; if counter < 4   ->   skip sending mov_avg
+                  JUMP C, update_values
+                  OUTPUT s2, RPP_BVJ         ; send mov_avg
+   update_values: 
+                  ADD s5, s0                 ; add to sum of all values (for avg calc)
+                  ADDCY s6, 00               ; add Carry (C) bit to MSB
+                  COMPARE s3, s0             ; compare data with max value
+                  JUMP NC, update_min_value  ; is max (s3) is smaller than s0 (data) update max value (update_max), else go to update_min_value
+      update_max: 
+                  LOAD s3, s0                ; update max value
+update_min_value: 
+                  COMPARE s0, s4             ; compare data with min value
+                  JUMP NC, check_counter     ; is min (s4) is bigger than s0 (data) update min value (update_min), else go to check_counter
+      update_min: 
+                  LOAD s4, s0
+   check_counter: 
+                  COMPARE s7, s1             ; if counter >= 0x32 (50) (end of incoming data)
+                  JUMP NC, loop              ; end of calculating mov_avg, start sending max, min and total avg, else go to loop
+       send_data: 
+                  OUTPUT s3, MAX
+                  OUTPUT s4, MIN
+        avg_calc: 
+                  SUB s5, 32
+                  SUBCY s6, 00
+                  JUMP C, end
+                  ADD s8, 01
+                  JUMP avg_calc
+             end: 
+                  OUTPUT s8, AVG

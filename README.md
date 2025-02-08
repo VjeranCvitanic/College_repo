@@ -8,3 +8,6 @@ This repo includes work done in these areas:
 - Embedded programming
 - Data and computer security
 - IoT project
+- Operating systems
+- Real time systems
+  

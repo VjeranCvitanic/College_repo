@@ -1,0 +1,682 @@
+Size of input: 608       Size of task: 16
+
+
+TASKS:
+{ 1000  0       30      1 }
+{ 1000  400     30      1 }
+{ 1000  700     30      1 }
+{ 5000  100     50      1 }
+{ 5000  500     50      1 }
+{ 5000  800     50      1 }
+{ 5000  1100    50      1 }
+{ 5000  1500    50      1 }
+{ 5000  1800    50      1 }
+{ 5000  2100    50      1 }
+{ 5000  2500    50      1 }
+{ 5000  2800    50      1 }
+{ 5000  3100    50      1 }
+{ 5000  3500    50      1 }
+{ 5000  3800    50      1 }
+{ 5000  4100    50      1 }
+{ 5000  4500    50      1 }
+{ 5000  4800    50      1 }
+{ 20000 900     50      1 }
+{ 20000 1900    150     1 }
+{ 20000 2900    50      1 }
+{ 20000 3900    150     1 }
+{ 20000 4900    50      1 }
+{ 20000 5900    150     1 }
+{ 20000 6900    50      1 }
+{ 20000 7900    150     1 }
+{ 20000 8900    50      1 }
+{ 20000 9900    150     1 }
+{ 20000 10900   50      1 }
+{ 20000 11900   150     1 }
+{ 20000 12900   50      1 }
+{ 20000 13900   150     1 }
+{ 20000 14900   50      1 }
+{ 20000 15900   150     1 }
+{ 20000 16900   50      1 }
+{ 20000 17900   150     0 }
+{ 20000 18900   150     0 }
+{ 20000 19900   150     0 }
+Creating 38 threads!
+0       Input 0: New input
+0       Working on input 0
+90      Work on input 0 DONE
+121     Input 3: New input
+121     Working on input 3
+121     Work on input 0 DONE reaction time = 31
+271     Work on input 3 DONE
+320     Work on input 3 DONE reaction time = 49
+400     Input 1: New input
+400     Working on input 1
+490     Work on input 1 DONE
+515     Work on input 1 DONE reaction time = 25
+515     Input 4: New input
+515     Working on input 4
+665     Work on input 4 DONE
+710     Work on input 4 DONE reaction time = 45
+710     Input 2: New input
+710     Working on input 2
+800     Work on input 2 DONE
+822     Working on input 5
+800     Input 5: New input
+823     Work on input 2 DONE reaction time = 23
+900     Input 18: New input
+972     Work on input 5 DONE
+1017    Working on input 18
+1018    Work on input 5 DONE reaction time = 68
+1018    Input 0: New input
+1100    Input 6: New input
+1167    Work on input 18        DONE
+1226    Working on input 0
+1226    Work on input 18        DONE reaction time = 176
+1316    Work on input 0 DONE
+1357    Working on input 6
+1357    Work on input 0 DONE reaction time = 249
+1400    Input 1: New input
+1500    Input 7: New input
+1507    Work on input 6 DONE
+1577    Working on input 7
+1577    Work on input 6 DONE reaction time = 327
+1700    Input 2: New input
+1727    Work on input 7 DONE
+1781    Working on input 1
+1781    Work on input 7 DONE reaction time = 131
+1800    Input 8: New input
+1871    Work on input 1 DONE
+1899    Working on input 2
+1900    Input 19: New input
+1900    Work on input 1 DONE reaction time = 410
+1989    Work on input 2 DONE
+2026    Working on input 8
+2026    Work on input 2 DONE reaction time = 236
+2026    Input 0: New input
+2101    Input 9: New input
+2176    Work on input 8 DONE
+2244    Working on input 9
+2244    Work on input 8 DONE reaction time = 294
+2394    Work on input 9 DONE
+2467    Working on input 19
+2467    Input 1: New input
+2467    Work on input 9 DONE reaction time = 216
+2500    Input 10: New input
+2701    Input 2: New input
+2800    Input 11: New input
+2900    Input 20: New input
+2917    Work on input 19        DONE
+3071    Working on input 20
+3072    Work on input 19        DONE reaction time = 722
+3072    Work on input 0 NOT FINISHED
+3072    Input 0: New input
+3101    Input 12: New input
+3221    Work on input 20        DONE
+3285    Working on input 0
+3286    Work on input 20        DONE reaction time = 236
+3375    Work on input 0 DONE
+3418    Working on input 1
+3418    Work on input 1 NOT FINISHED
+3419    Input 1: New input
+3418    Work on input 0 DONE reaction time = 256
+3501    Input 13: New input
+3508    Work on input 1 DONE
+3550    Working on input 2
+3550    Work on input 1 DONE reaction time = 41
+3640    Work on input 2 DONE
+3676    Working on input 10
+3676    Work on input 2 DONE reaction time = 885
+3700    Input 2: New input
+3800    Input 14: New input
+3826    Work on input 10        DONE
+3904    Working on input 11
+3904    Work on input 10        DONE reaction time = 1254
+3905    Input 21: New input
+4000    Input 0: New input
+4054    Work on input 11        DONE
+4122    Working on input 12
+4122    Work on input 11        DONE reaction time = 1172
+4122    Input 15: New input
+4272    Work on input 12        DONE
+4311    Working on input 13
+4312    Work on input 12        DONE reaction time = 1061
+4401    Input 1: New input
+4461    Work on input 13        DONE
+4531    Working on input 14
+4531    Input 16: New input
+4531    Work on input 13        DONE reaction time = 880
+4681    Work on input 14        DONE
+4750    Working on input 15
+4750    Work on input 14        DONE reaction time = 800
+4750    Work on input 2 NOT FINISHED
+4750    Input 2: New input
+4800    Input 17: New input
+4900    Work on input 15        DONE
+4963    Working on input 16
+4900    Input 22: New input
+4963    Work on input 15        DONE reaction time = 691
+5003    Work on input 0 NOT FINISHED
+5003    Input 0: New input
+5100    Input 3: New input
+5113    Work on input 16        DONE
+5180    Working on input 17
+5181    Work on input 16        DONE reaction time = 500
+5330    Work on input 17        DONE
+5377    Working on input 21
+5377    Work on input 17        DONE reaction time = 427
+5410    Work on input 1 NOT FINISHED
+5410    Input 1: New input
+5500    Input 4: New input
+5701    Work on input 2 NOT FINISHED
+5702    Input 2: New input
+5801    Input 5: New input
+5827    Work on input 21        DONE
+6040    Working on input 22
+6040    Input 23: New input
+6040    Work on input 21        DONE reaction time = 1685
+6040    Work on input 0 NOT FINISHED
+6041    Input 0: New input
+6100    Input 6: New input
+6190    Work on input 22        DONE
+6258    Working on input 23
+6258    Work on input 22        DONE reaction time = 1208
+6409    Work on input 1 NOT FINISHED
+6409    Input 1: New input
+6500    Input 7: New input
+6707    Work on input 2 NOT FINISHED
+6708    Input 2: New input
+6708    Work on input 23        DONE
+6923    Working on input 0
+6923    Work on input 23        DONE reaction time = 433
+6923    Input 8: New input
+6923    Input 24: New input
+7005    Work on input 0 NOT FINISHED
+7005    Input 0: New input
+7013    Work on input 0 DONE
+7053    Working on input 1
+7053    Work on input 0 DONE reaction time = -42
+7100    Input 9: New input
+7143    Work on input 1 DONE
+7180    Working on input 2
+7181    Work on input 1 DONE reaction time = 682
+7270    Work on input 2 DONE
+7315    Working on input 3
+7315    Work on input 2 DONE reaction time = 517
+7400    Input 1: New input
+7465    Work on input 3 DONE
+7541    Working on input 4
+7541    Input 10: New input
+7541    Work on input 3 DONE reaction time = 2291
+7691    Work on input 4 DONE
+7727    Working on input 5
+7727    Input 2: New input
+7728    Work on input 4 DONE reaction time = 2078
+7800    Input 11: New input
+7877    Work on input 5 DONE
+7946    Working on input 6
+7947    Work on input 5 DONE reaction time = 1996
+7947    Input 25: New input
+8000    Input 0: New input
+8096    Work on input 6 DONE
+8173    Working on input 7
+8173    Input 12: New input
+8174    Work on input 6 DONE reaction time = 1924
+8323    Work on input 7 DONE
+8396    Working on input 8
+8397    Work on input 7 DONE reaction time = 1747
+8406    Work on input 1 NOT FINISHED
+8406    Input 1: New input
+8500    Input 13: New input
+8546    Work on input 8 DONE
+8623    Working on input 9
+8623    Work on input 8 DONE reaction time = 1550
+8704    Work on input 2 NOT FINISHED
+8705    Input 2: New input
+8773    Work on input 9 DONE
+8844    Working on input 10
+8844    Input 14: New input
+8845    Work on input 9 DONE reaction time = 1595
+8900    Input 26: New input
+8994    Work on input 10        DONE
+9050    Working on input 11
+9051    Work on input 10        DONE reaction time = 1360
+9051    Work on input 0 NOT FINISHED
+9051    Input 0: New input
+9100    Input 15: New input
+9200    Work on input 11        DONE
+9282    Working on input 12
+9283    Work on input 11        DONE reaction time = 1333
+9402    Work on input 1 NOT FINISHED
+9403    Input 1: New input
+9432    Work on input 12        DONE
+9502    Working on input 13
+9432    Work on input 12        DONE reaction time = 1109
+9502    Input 16: New input
+9652    Work on input 13        DONE
+9735    Working on input 14
+9735    Work on input 13        DONE reaction time = 1085
+9736    Work on input 2 NOT FINISHED
+9736    Input 2: New input
+9801    Input 17: New input
+9885    Work on input 14        DONE
+9952    Working on input 15
+9952    Input 27: New input
+9953    Work on input 14        DONE reaction time = 959
+10003   Work on input 0 NOT FINISHED
+10004   Input 0: New input
+10100   Input 3: New input
+10102   Work on input 15        DONE
+10149   Working on input 16
+10149   Work on input 15        DONE reaction time = 899
+10299   Work on input 16        DONE
+10371   Working on input 17
+10371   Work on input 16        DONE reaction time = 719
+10403   Work on input 1 NOT FINISHED
+10404   Input 1: New input
+10500   Input 4: New input
+10521   Work on input 17        DONE
+10588   Working on input 24
+10589   Work on input 17        DONE reaction time = 638
+10703   Work on input 2 NOT FINISHED
+10703   Input 2: New input
+10738   Work on input 24        DONE
+10813   Working on input 25
+10813   Input 5: New input
+10813   Work on input 24        DONE reaction time = 3740
+10901   Input 28: New input
+11008   Work on input 0 NOT FINISHED
+11008   Input 0: New input
+11100   Input 6: New input
+11263   Work on input 25        DONE
+11435   Working on input 26
+11435   Work on input 25        DONE reaction time = 3038
+11435   Work on input 1 NOT FINISHED
+11436   Input 1: New input
+11500   Input 7: New input
+11585   Work on input 26        DONE
+11628   Working on input 27
+11629   Work on input 26        DONE reaction time = 2579
+11709   Work on input 2 NOT FINISHED
+11710   Input 2: New input
+11800   Input 8: New input
+11900   Input 29: New input
+12009   Work on input 0 NOT FINISHED
+12010   Input 0: New input
+12078   Work on input 27        DONE
+12282   Working on input 28
+12283   Input 9: New input
+12283   Work on input 27        DONE reaction time = 1881
+12404   Work on input 1 NOT FINISHED
+12404   Input 1: New input
+12432   Work on input 28        DONE
+12502   Working on input 29
+12502   Work on input 28        DONE reaction time = 1451
+12502   Input 10: New input
+12705   Work on input 2 NOT FINISHED
+12705   Input 2: New input
+12800   Input 11: New input
+12900   Input 30: New input
+12952   Work on input 29        DONE
+13073   Working on input 30
+13073   Work on input 29        DONE reaction time = 723
+13074   Work on input 0 NOT FINISHED
+13074   Input 0: New input
+13100   Input 12: New input
+13223   Work on input 30        DONE
+13290   Working on input 0
+13290   Work on input 30        DONE reaction time = 240
+13380   Work on input 0 DONE
+13419   Working on input 1
+13419   Work on input 0 DONE reaction time = 255
+13419   Work on input 1 NOT FINISHED
+13419   Input 1: New input
+13500   Input 13: New input
+13509   Work on input 1 DONE
+13553   Working on input 2
+13554   Work on input 1 DONE reaction time = 45
+13643   Work on input 2 DONE
+13685   Working on input 3
+13685   Work on input 2 DONE reaction time = 890
+13700   Input 2: New input
+13800   Input 14: New input
+13835   Work on input 3 DONE
+13882   Working on input 4
+13882   Work on input 3 DONE reaction time = 3632
+13900   Input 31: New input
+14000   Input 0: New input
+14032   Work on input 4 DONE
+14100   Working on input 5
+14100   Input 15: New input
+14101   Work on input 4 DONE reaction time = 3451
+14250   Work on input 5 DONE
+14331   Working on input 6
+14331   Work on input 5 DONE reaction time = 3368
+14400   Input 1: New input
+14481   Work on input 6 DONE
+14553   Working on input 7
+14554   Work on input 6 DONE reaction time = 3304
+14554   Input 16: New input
+14703   Work on input 7 DONE
+14783   Working on input 8
+14783   Work on input 2 NOT FINISHED
+14784   Input 2: New input
+14784   Work on input 7 DONE reaction time = 3134
+14800   Input 17: New input
+14900   Input 32: New input
+14933   Work on input 8 DONE
+14985   Working on input 9
+14987   Work on input 8 DONE reaction time = 3037
+15005   Work on input 0 NOT FINISHED
+15005   Input 0: New input
+15100   Input 3: New input
+15135   Work on input 9 DONE
+15199   Working on input 10
+15199   Work on input 9 DONE reaction time = 2766
+15349   Work on input 10        DONE
+15424   Working on input 11
+15425   Work on input 10        DONE reaction time = 2773
+15425   Work on input 1 NOT FINISHED
+15425   Input 1: New input
+15500   Input 4: New input
+15574   Work on input 11        DONE
+15655   Working on input 12
+15655   Work on input 11        DONE reaction time = 2705
+15706   Work on input 2 NOT FINISHED
+15706   Input 2: New input
+15800   Input 5: New input
+15805   Work on input 12        DONE
+15875   Working on input 13
+15875   Work on input 12        DONE reaction time = 2625
+15900   Input 33: New input
+16009   Work on input 0 NOT FINISHED
+16010   Input 0: New input
+16025   Work on input 13        DONE
+16083   Working on input 14
+16083   Work on input 13        DONE reaction time = 2433
+16100   Input 6: New input
+16233   Work on input 14        DONE
+16291   Working on input 15
+16292   Work on input 14        DONE reaction time = 2342
+16402   Work on input 1 NOT FINISHED
+16402   Input 1: New input
+16441   Work on input 15        DONE
+16517   Working on input 16
+16517   Work on input 15        DONE reaction time = 2267
+16517   Input 7: New input
+16667   Work on input 16        DONE
+16740   Working on input 17
+16740   Work on input 2 NOT FINISHED
+16740   Input 2: New input
+16740   Work on input 16        DONE reaction time = 2036
+16800   Input 8: New input
+16890   Work on input 17        DONE
+16955   Working on input 31
+16955   Input 34: New input
+16956   Work on input 17        DONE reaction time = 2006
+17005   Work on input 0 NOT FINISHED
+17006   Input 0: New input
+17101   Input 9: New input
+17405   Work on input 31        DONE
+17579   Working on input 32
+17579   Work on input 1 NOT FINISHED
+17580   Input 1: New input
+17579   Input 10: New input
+17580   Work on input 31        DONE reaction time = 3230
+17702   Work on input 2 NOT FINISHED
+17702   Input 2: New input
+17729   Work on input 32        DONE
+17799   Working on input 33
+17799   Work on input 32        DONE reaction time = 2749
+17800   Input 11: New input
+18001   Work on input 0 NOT FINISHED
+18001   Input 0: New input
+18101   Input 12: New input
+18249   Work on input 33        DONE
+18474   Working on input 34
+18474   Work on input 33        DONE reaction time = 2124
+18474   Work on input 1 NOT FINISHED
+18475   Input 1: New input
+18500   Input 13: New input
+18624   Work on input 34        DONE
+18679   Working on input 0
+18680   Work on input 34        DONE reaction time = 1575
+18700   Work on input 2 NOT FINISHED
+18700   Input 2: New input
+18769   Work on input 0 DONE
+18809   Working on input 1
+18809   Input 14: New input
+18809   Work on input 0 DONE reaction time = 718
+18899   Work on input 1 DONE
+18938   Working on input 2
+18939   Work on input 1 DONE reaction time = 374
+19000   Input 0: New input
+19028   Work on input 2 DONE
+19074   Working on input 3
+19074   Work on input 2 DONE reaction time = 284
+19100   Input 15: New input
+19224   Work on input 3 DONE
+19300   Working on input 4
+19301   Work on input 3 DONE reaction time = 4051
+19401   Input 1: New input
+19450   Work on input 4 DONE
+19517   Working on input 5
+19518   Input 16: New input
+19518   Work on input 4 DONE reaction time = 3868
+19667   Work on input 5 DONE
+19734   Working on input 6
+19734   Input 2: New input
+19735   Work on input 5 DONE reaction time = 3785
+19800   Input 17: New input
+19884   Work on input 6 DONE
+17663   Working on input 7
+17813   Work on input 7 DONE
+17891   Working on input 8
+18041   Work on input 8 DONE
+18114   Working on input 9
+18264   Work on input 9 DONE
+18336   Working on input 10
+18486   Work on input 10        DONE
+18561   Working on input 11
+18711   Work on input 11        DONE
+18759   Working on input 12
+18909   Work on input 12        DONE
+18974   Working on input 13
+19124   Work on input 13        DONE
+19186   Working on input 14
+19336   Work on input 14        DONE
+19403   Working on input 15
+19553   Work on input 15        DONE
+19612   Working on input 16
+19762   Work on input 16        DONE
+19841   Working on input 17
+19885   Work on input 7 DONE reaction time = 3218
+19886   Work on input 13        DONE reaction time = 1236
+19886   Work on input 16        DONE reaction time = 218
+19888   Work on input 6 DONE reaction time = 3638
+19888   Work on input 9 DONE reaction time = 2637
+19888   Work on input 11        DONE reaction time = 1938
+19888   Work on input 15        DONE reaction time = 638
+19888   Work on input 8 DONE reaction time = 2938
+19889   Work on input 10        DONE reaction time = 2160
+19889   Work on input 12        DONE reaction time = 1638
+19889   Work on input 14        DONE reaction time = 930
+19991   Work on input 17        DONE
+20033   Working on input 0
+20033   Work on input 0 NOT FINISHED
+20034   Input 0: New input
+20034   Work on input 17        DONE reaction time = 84
+20100   Input 3: New input
+20123   Work on input 0 DONE
+20150   Working on input 1
+20150   Work on input 0 DONE reaction time = 26
+20240   Work on input 1 DONE
+20275   Working on input 2
+20275   Work on input 1 DONE reaction time = 784
+20365   Work on input 2 DONE
+20398   Working on input 3
+20398   Work on input 2 DONE reaction time = 574
+20400   Input 1: New input
+20500   Input 4: New input
+20548   Work on input 3 DONE
+20581   Working on input 4
+20581   Work on input 3 DONE reaction time = 331
+20700   Input 2: New input
+20731   Work on input 4 DONE
+20773   Working on input 1
+20774   Work on input 4 DONE reaction time = 124
+20800   Input 5: New input
+20863   Work on input 1 DONE
+20888   Working on input 2
+20888   Work on input 1 DONE reaction time = 398
+20900   Input 18: New input
+20978   Work on input 2 DONE
+21004   Working on input 5
+21004   Input 0: New input
+21004   Work on input 2 DONE reaction time = 214
+21100   Input 6: New input
+21154   Work on input 5 DONE
+21187   Working on input 6
+21187   Work on input 5 DONE reaction time = 237
+21337   Work on input 6 DONE
+21405   Working on input 18
+21405   Work on input 6 DONE reaction time = 155
+21405   Input 1: New input
+21500   Input 7: New input
+21555   Work on input 18        DONE
+21618   Working on input 0
+21619   Work on input 18        DONE reaction time = 569
+21700   Input 2: New input
+21708   Work on input 0 DONE
+21752   Working on input 1
+21753   Work on input 0 DONE reaction time = 659
+21800   Input 8: New input
+21842   Work on input 1 DONE
+21882   Working on input 2
+21882   Work on input 1 DONE reaction time = 387
+21901   Input 19: New input
+21972   Work on input 2 DONE
+22012   Working on input 7
+21972   Work on input 2 DONE reaction time = 182
+22012   Input 0: New input
+22100   Input 9: New input
+22162   Work on input 7 DONE
+22210   Working on input 8
+22211   Work on input 7 DONE reaction time = 561
+22360   Work on input 8 DONE
+22420   Working on input 9
+22420   Work on input 8 DONE reaction time = 470
+22420   Input 1: New input
+22500   Input 10: New input
+22570   Work on input 9 DONE
+22642   Working on input 10
+22643   Work on input 9 DONE reaction time = 393
+22701   Input 2: New input
+22792   Work on input 10        DONE
+22867   Working on input 19
+22867   Work on input 10        DONE reaction time = 217
+22867   Input 11: New input
+22900   Input 20: New input
+23002   Work on input 0 NOT FINISHED
+23002   Input 0: New input
+23100   Input 12: New input
+23317   Work on input 19        DONE
+23497   Working on input 20
+23497   Work on input 1 NOT FINISHED
+23498   Input 1: New input
+23498   Work on input 19        DONE reaction time = 1147
+23500   Input 13: New input
+23647   Work on input 20        DONE
+23722   Working on input 0
+23722   Work on input 2 NOT FINISHED
+23722   Input 2: New input
+23722   Work on input 20        DONE reaction time = 672
+23800   Input 14: New input
+23812   Work on input 0 DONE
+23853   Working on input 1
+23853   Work on input 0 DONE reaction time = 761
+23900   Input 21: New input
+23943   Work on input 1 DONE
+23984   Working on input 2
+23984   Work on input 1 DONE reaction time = 396
+24001   Input 0: New input
+24074   Work on input 2 DONE
+24114   Working on input 11
+24114   Work on input 2 DONE reaction time = 302
+24114   Input 15: New input
+24264   Work on input 11        DONE
+24334   Working on input 12
+24335   Work on input 11        DONE reaction time = 1318
+24400   Input 1: New input
+24484   Work on input 12        DONE
+24551   Working on input 13
+24551   Input 16: New input
+24552   Work on input 12        DONE reaction time = 1302
+24700   Input 2: New input
+24701   Work on input 13        DONE
+24745   Working on input 14
+24701   Work on input 13        DONE reaction time = 1051
+24800   Input 17: New input
+24895   Work on input 14        DONE
+24969   Working on input 15
+24969   Work on input 14        DONE reaction time = 1019
+24969   Input 22: New input
+25009   Work on input 0 NOT FINISHED
+25009   Input 0: New input
+25100   Input 3: New input
+25119   Work on input 15        DONE
+25188   Working on input 16
+25188   Work on input 15        DONE reaction time = 924
+^CProgram received SIGINT: 2
+Stopping simulation...
+
+
+
+ALL done
+
+
+
+Time interval: [0 - 25232] ms
+
+Input 0: Successfull cases:9    AVG time successfull cases: 323.666656 ms       Max reaction time:761 ms        Number of unsuccessfull cases 16
+Input 1: Successfull cases:10   AVG time successfull cases: 354.200012 ms       Max reaction time:784 ms        Number of unsuccessfull cases 14
+Input 2: Successfull cases:10   AVG time successfull cases: 410.700012 ms       Max reaction time:890 ms        Number of unsuccessfull cases 14
+Input 3: Successfull cases:5    AVG time successfull cases: 2070.800049 ms      Max reaction time:4051 ms       Number of unsuccessfull cases 0
+Input 4: Successfull cases:5    AVG time successfull cases: 1913.199951 ms      Max reaction time:3868 ms       Number of unsuccessfull cases 0
+Input 5: Successfull cases:5    AVG time successfull cases: 1890.800049 ms      Max reaction time:3785 ms       Number of unsuccessfull cases 0
+Input 6: Successfull cases:5    AVG time successfull cases: 1869.599976 ms      Max reaction time:3638 ms       Number of unsuccessfull cases 0
+Input 7: Successfull cases:5    AVG time successfull cases: 1758.199951 ms      Max reaction time:3218 ms       Number of unsuccessfull cases 0
+Input 8: Successfull cases:5    AVG time successfull cases: 1657.800049 ms      Max reaction time:3037 ms       Number of unsuccessfull cases 0
+Input 9: Successfull cases:5    AVG time successfull cases: 1521.400024 ms      Max reaction time:2766 ms       Number of unsuccessfull cases 0
+Input 10: Successfull cases:5   AVG time successfull cases: 1552.800049 ms      Max reaction time:2773 ms       Number of unsuccessfull cases 0
+Input 11: Successfull cases:5   AVG time successfull cases: 1693.199951 ms      Max reaction time:2705 ms       Number of unsuccessfull cases 0
+Input 12: Successfull cases:5   AVG time successfull cases: 1547.000000 ms      Max reaction time:2625 ms       Number of unsuccessfull cases 0
+Input 13: Successfull cases:5   AVG time successfull cases: 1337.000000 ms      Max reaction time:2433 ms       Number of unsuccessfull cases 0
+Input 14: Successfull cases:5   AVG time successfull cases: 1210.000000 ms      Max reaction time:2342 ms       Number of unsuccessfull cases 0
+Input 15: Successfull cases:5   AVG time successfull cases: 1083.800049 ms      Max reaction time:2267 ms       Number of unsuccessfull cases 0
+Input 16: Successfull cases:4   AVG time successfull cases: 868.250000 ms       Max reaction time:2036 ms       Number of unsuccessfull cases 0
+Input 17: Successfull cases:4   AVG time successfull cases: 788.750000 ms       Max reaction time:2006 ms       Number of unsuccessfull cases 0
+Input 18: Successfull cases:2   AVG time successfull cases: 372.500000 ms       Max reaction time:569 ms        Number of unsuccessfull cases 0
+Input 19: Successfull cases:2   AVG time successfull cases: 934.500000 ms       Max reaction time:1147 ms       Number of unsuccessfull cases 0
+Input 20: Successfull cases:2   AVG time successfull cases: 454.000000 ms       Max reaction time:672 ms        Number of unsuccessfull cases 0
+Input 21: Successfull cases:1   AVG time successfull cases: 1685.000000 ms      Max reaction time:1685 ms       Number of unsuccessfull cases 0
+Input 22: Successfull cases:1   AVG time successfull cases: 1208.000000 ms      Max reaction time:1208 ms       Number of unsuccessfull cases 0
+Input 23: Successfull cases:1   AVG time successfull cases: 433.000000 ms       Max reaction time:433 ms        Number of unsuccessfull cases 0
+Input 24: Successfull cases:1   AVG time successfull cases: 3740.000000 ms      Max reaction time:3740 ms       Number of unsuccessfull cases 0
+Input 25: Successfull cases:1   AVG time successfull cases: 3038.000000 ms      Max reaction time:3038 ms       Number of unsuccessfull cases 0
+Input 26: Successfull cases:1   AVG time successfull cases: 2579.000000 ms      Max reaction time:2579 ms       Number of unsuccessfull cases 0
+Input 27: Successfull cases:1   AVG time successfull cases: 1881.000000 ms      Max reaction time:1881 ms       Number of unsuccessfull cases 0
+Input 28: Successfull cases:1   AVG time successfull cases: 1451.000000 ms      Max reaction time:1451 ms       Number of unsuccessfull cases 0
+Input 29: Successfull cases:1   AVG time successfull cases: 723.000000 ms       Max reaction time:723 ms        Number of unsuccessfull cases 0
+Input 30: Successfull cases:1   AVG time successfull cases: 240.000000 ms       Max reaction time:240 ms        Number of unsuccessfull cases 0
+Input 31: Successfull cases:1   AVG time successfull cases: 3230.000000 ms      Max reaction time:3230 ms       Number of unsuccessfull cases 0
+Input 32: Successfull cases:1   AVG time successfull cases: 2749.000000 ms      Max reaction time:2749 ms       Number of unsuccessfull cases 0
+Input 33: Successfull cases:1   AVG time successfull cases: 2124.000000 ms      Max reaction time:2124 ms       Number of unsuccessfull cases 0
+Input 34: Successfull cases:1   AVG time successfull cases: 1575.000000 ms      Max reaction time:1575 ms       Number of unsuccessfull cases 0
+Input 35: Successfull cases:0   AVG time successfull cases: 0.000000 ms Max reaction time:0 ms  Number of unsuccessfull cases 0
+Input 36: Successfull cases:0   AVG time successfull cases: 0.000000 ms Max reaction time:0 ms  Number of unsuccessfull cases 0
+Input 37: Successfull cases:0   AVG time successfull cases: 0.000000 ms Max reaction time:0 ms  Number of unsuccessfull cases 0
+Combined stats:
+Successfull cases:122   AVG time successfull cases: 1253.245850 ms      Max reaction time:4051 ms       Number of unsuccessfull cases 44
+
+Goodbye!
+root@LAPTOP-887H46GI:/home/vjeran/srsv/lab1/lab1a#
